@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Passionate Flutter Developer
 ------------------------------------------------
 
-I've been learning to code for 2 years, after switching careers. I started with HTML and CSS, but have really found a passion for mobile application development.
+I started with HTML and CSS, but have really found a passion for mobile application development. I pursued Flutter Development from TOPS Technologies in Ahmedabad and am now geared up to bring my expertise to real-world projects.
 
 * 🌍  I'm based in Ahmdedabad, Gujarat, India
 * 🖥️  See my portfolio at [My Linkedin](http://www.linkedin.com/in/suraj-meena-a69463209/)
@@ -12,7 +12,7 @@ I've been learning to code for 2 years, after switching careers. I started with 
 * 🧠  I'm learning Flutter, Dart, Firebase
 * 🤝  I'm open to collaborating on interestion Projects
 
-### Skills
+### Languages and Tools:
 
 
 <p align="left">
