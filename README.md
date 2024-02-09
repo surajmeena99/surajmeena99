@@ -11,7 +11,7 @@ I started with HTML and CSS, but have really found a passion for mobile applicat
 * 👨‍💻  All of my projects are available at [My Projects](https://github.com/surajmeena99/Flutter-Projects)
 * ✉️  You can contact me at [surajmeena.dev@gmail.com](mailto:surajmeena.dev@gmail.com)
 * 🧠  I'm learning Flutter, Dart, Firebase
-* 🤝  I'm open to collaborating on interestion Projects
+* 🤝  I'm open to collaborating on interesting Projects
 
 ### Languages and Tools:
 
