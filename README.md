@@ -12,7 +12,8 @@ I started with HTML and CSS, but have really found a passion for mobile applicat
 * ✉️  You can contact me at [surajmeena.dev@gmail.com](mailto:surajmeena.dev@gmail.com)
 * 🧠  I'm learning Flutter, Dart, Firebase
 * 🤝  I'm open to collaborating on interesting Projects
-
+* ⚡ Fun fact I am a Pro Coder
+  
 ### Languages and Tools:
 
 
