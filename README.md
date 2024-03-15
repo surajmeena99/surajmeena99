@@ -13,9 +13,10 @@ I started with HTML and CSS, but have really found a passion for mobile applicat
 * 🧠  I'm learning Flutter, Dart, Firebase
 * 🤝  I'm open to collaborating on interesting Projects
 * ⚡ Fun fact I am a Pro Coder
-  
-### Languages and Tools:
 
+  
+💻 Languages and Tools:
+------------------------------------------------
 
 <p align="left">
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
@@ -33,7 +34,8 @@ I started with HTML and CSS, but have really found a passion for mobile applicat
 </p>
 
 
-### Connect with me:
+🌐 Connect with me:
+------------------------------------------------
 
 <p align="left"> 
 <a href="https://www.github.com/surajmeena99" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
