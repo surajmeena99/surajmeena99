@@ -45,3 +45,9 @@ I started with HTML and CSS, but have really found a passion for mobile applicat
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
 </picture> </a>
 </p>
+
+
+🛒 Apps on Store
+------------------------------------------------
+[![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.suraj.surajriders_app) 
+<!-- [![AppStore](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/surajriders_app/id1234567890) -->
