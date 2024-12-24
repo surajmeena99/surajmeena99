@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Passionate Flutter Developer
 ------------------------------------------------
 
-I started with HTML and CSS, but have really found a passion for mobile application development. I pursued Flutter Development from TOPS Technologies in Ahmedabad and am now geared up to bring my expertise to real-world projects.
+I started with HTML and CSS, but have really found a passion for mobile application development. I pursued Flutter Development from TOPS Technologies in Ahmedabad and am now working at ICT Infracon in Ahmedabad, where I apply my skills to real-world projects. I'm excited to keep growing and building great mobile apps.
 
 * 🌍  I'm based in Ahmdedabad, Gujarat, India
 * 🖥️  See my portfolio at [My Linkedin](https://www.linkedin.com/in/surajmeena99/)
